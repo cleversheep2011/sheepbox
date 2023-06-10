@@ -1,7 +1,10 @@
 使用static cast转换类型
-
 int i = 14;
 float f;
 f = static_cast<float>(i);
 也可以写成
 f=(float)i
+
+万能库
+<bits/stdc++.h>
+里面啥都有
