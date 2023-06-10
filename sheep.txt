@@ -8,3 +8,13 @@ f=(float)i
 万能库
 <bits/stdc++.h>
 里面啥都有
+
+非常嚎的汉书:
+fgets从流中注入字符串
+puts输出字符串
+memset将字符串内容重置
+memcpy将字符复制到字符串中
+strcpy复制字符
+sprintf通过格式化方式转换成字符串
+to_string直接转换成字符串
+sscanf老师也不知道=<
